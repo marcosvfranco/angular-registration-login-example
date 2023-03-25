@@ -1,0 +1,23 @@
+{
+  "name": "angular-registration-login-example",
+  "version": "1.0.0",
+  "description": "Registration and login app for testing purposes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosvfranco/angular-registration-login-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosvfranco/angular-registration-login-example/issues"
+  },
+  "homepage": "https://github.com/marcosvfranco/angular-registration-login-example#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
